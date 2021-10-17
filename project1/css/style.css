@@ -1,0 +1,228 @@
+
+
+header .top-bar .logo h2 svg {
+    color: #FF5363;
+}
+
+.svg-inline--fa {
+    display: inline-block;
+    font-size: inherit;
+    height: 1em;}
+
+    #contorg {
+        position: fixed;
+        background-color: #fff;
+        z-index: 4;
+        box-shadow: 0px 0 50px 0px rgb(80 101 142 / 8%);   
+    width:100% ;
+    margin-top:-5%;
+}
+
+
+#cont001{
+    background-color:skyblue;
+}
+#cont001{
+    margin-top:5%;
+}
+#span1{
+    color:#4b6691;
+}        
+header .top-bar .logo h2{
+    margin-right:8%;
+}
+#parag1{
+    display:flex;
+
+}
+#parag2{
+    margin-top:5%;
+}
+
+#hh1{
+    font-size:6em;
+}
+#hh2{color:red;}
+#cont1{
+    display:flex;
+}
+#parag3 img{
+   width :100% ;
+}
+#parag4 {margin-top:5%;}
+#button1{
+    
+    width: 60%;
+    border-radius:20px;
+}
+#button1 span{
+    margin-left:8%;
+}
+#parag5{margin-top:10%;
+display :flex;
+justify-content:space-between;}
+
+#parag5 a{
+    margin-top:2%;
+    text-decoration: none;
+}
+
+
+#section2{
+   margin-top:4%;
+}
+
+#paragpict{
+    margin-top: 4%;
+    text-align: center;
+}
+#section2 img{
+    border-bottom: blue solid 5px;
+}
+#section2 h5{
+    color:blue;
+}
+#paragpict h4{
+color : blue;
+}
+#list1{
+    margin-top:4%;
+}
+#list1 li{
+    color:blue;
+    font-size:1.2em;
+}
+#list1 span{
+    color:black;
+    font-size:1.3em;
+}
+#h5tit{
+    color:blue;
+}
+
+#btnque{
+    border-radius:10px;
+    margin-top:4%;
+    text-align:center;
+    width:fit-content;
+    margin-left:35%;
+}
+
+#sec04{
+    margin-top:4%;
+}
+#sec5 h4{
+    color:blue;
+
+}
+#sym1{
+    margin-top:4%;
+}
+#sym1 img{
+    width:30%;
+    border-radius:50%;
+    margin-left:10%;
+}
+#sym1 h5{
+    color:blue;
+}
+#cont6{
+margin-top:4%;
+}
+#cont6 img{
+    width:10vw;
+    border-radius:50%;
+    margin-left:20%;
+}
+#parag6 button{
+    width:fit-content;
+    margin-top:4%;
+    height:fit-content;
+    margin-left:5%;
+}
+#parag6{
+    margin-top:5%;
+}
+#parag6 span{font-size:1.2em;
+color:blue;}
+#parag7{
+    margin-top:5%;
+    text-align:center;
+}
+#parag7 h5{
+    color:blue;
+}
+#buto1{
+    border:transparent;
+    background-color:white;
+    color:blue;
+}
+
+
+#butons1 button{
+    margin:6%;
+}
+#steps2 li{
+    list-style-image: url(../imgs/sah1.png) ;
+}
+#img01{
+    width:20rem;
+}
+#imgs02 img{
+width:9rem;
+border-radius: 50%;
+}
+#imgs02{
+    display:flex;
+    flex-direction: row;
+    justify-content:space-between;
+    text-align:center;
+}
+#careful1{
+    background-color:blue;
+    color:white;
+    margin-top:4%;
+}
+#careful1 h5{
+    color:cyan;
+}
+#cont002{
+background-color:darkblue;
+
+}
+#sele2 img{
+width:100%;
+}
+#sele1 img{
+    border-radius:50%;
+    border:green solid 3px;
+    width:10vw;
+}
+#sele3 img{
+    border-radius:50%;
+    border:red solid 3px;
+    width:10vw;
+}
+#contpic{
+    font-size:0.8em;
+}
+#fonts1{
+    display:flex;
+    font-size:2em;
+}
+.iconnn{
+    margin-left:4%;
+    border-radius:50%;
+
+}
+#foot04{
+    font-size:0.8em;
+}
+footer{
+    background-color:darkblue;
+    padding-bottom:5%;
+    color:white;
+}
+footer a{
+    color:skyblue;
+}
